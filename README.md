@@ -12,3 +12,8 @@ yarn add typescript -D
 yarn tsc --init
 ```
 
+### 3 - Build code (javascript)
+```
+yarn tsc
+```
+

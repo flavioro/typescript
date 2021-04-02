@@ -17,3 +17,7 @@ yarn tsc --init
 yarn tsc
 ```
 
+### Tool convert .ts to .js (environment dev)
+```
+yarn add ts-node-dev -D
+```

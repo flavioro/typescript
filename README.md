@@ -21,3 +21,9 @@ yarn tsc
 ```
 yarn add ts-node-dev -D
 ```
+### Add configuration in package.json
+```
+  "scripts": {
+    "dev": "ts-node-dev --transpile-only --ignore-watch node_modules --respawn src/server.ts"
+  },
+```

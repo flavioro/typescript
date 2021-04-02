@@ -7,7 +7,7 @@
 ```
 yarn add typescript -D
 ```
-### 2 - Inicialize typescript
+### 2 - Inicialize typescript (tsconfig.json)
 ```
 yarn tsc --init
 ```
